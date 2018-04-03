@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Starter Intelligence",
+    "content": [
+      {
+        "type": "title",
+        "content": "Starter Intelligence"
+      },
+      {
+        "type": "field",
+        "content": "[_]",
+        "header": "Expertise du combat"
+      },
+      {
+        "type": "field",
+        "content": "[_]",
+        "header": "Expertise du combat"
+      },
+      {
+        "type": "field",
+        "content": "[_]",
+        "header": "Expertise du combat"
+      },
+      {
+        "type": "title",
+        "content": "Gemme d'INT"
+      },
+      {
+        "type": "field",
+        "content": "[_]",
+        "header": "Tactique"
+      },
+      {
+        "type": "field",
+        "content": "[_]",
+        "header": "Position défensive mineure"
+      },
+      {
+        "type": "field",
+        "content": "[_]",
+        "header": "Neutralisation"
+      },
+      {
+        "type": "field",
+        "content": "[_]",
+        "header": "Tenaille mineure"
+      }
+    ]
+  }
+]
